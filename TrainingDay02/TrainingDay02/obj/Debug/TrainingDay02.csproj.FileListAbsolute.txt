@@ -1,0 +1,7 @@
+F:\.NetWorkplace\source\repos\TrainingDay02\TrainingDay02\bin\Debug\TrainingDay02.exe.config
+F:\.NetWorkplace\source\repos\TrainingDay02\TrainingDay02\bin\Debug\TrainingDay02.exe
+F:\.NetWorkplace\source\repos\TrainingDay02\TrainingDay02\bin\Debug\TrainingDay02.pdb
+F:\.NetWorkplace\source\repos\TrainingDay02\TrainingDay02\obj\Debug\TrainingDay02.csprojAssemblyReference.cache
+F:\.NetWorkplace\source\repos\TrainingDay02\TrainingDay02\obj\Debug\TrainingDay02.csproj.CoreCompileInputs.cache
+F:\.NetWorkplace\source\repos\TrainingDay02\TrainingDay02\obj\Debug\TrainingDay02.exe
+F:\.NetWorkplace\source\repos\TrainingDay02\TrainingDay02\obj\Debug\TrainingDay02.pdb
