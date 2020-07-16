@@ -1,0 +1,7 @@
+F:\.NetWorkplace\source\repos\ExtensionMethodSession\ExtensionMethodSession\bin\Debug\ExtensionMethodSession.exe.config
+F:\.NetWorkplace\source\repos\ExtensionMethodSession\ExtensionMethodSession\bin\Debug\ExtensionMethodSession.exe
+F:\.NetWorkplace\source\repos\ExtensionMethodSession\ExtensionMethodSession\bin\Debug\ExtensionMethodSession.pdb
+F:\.NetWorkplace\source\repos\ExtensionMethodSession\ExtensionMethodSession\obj\Debug\ExtensionMethodSession.csprojAssemblyReference.cache
+F:\.NetWorkplace\source\repos\ExtensionMethodSession\ExtensionMethodSession\obj\Debug\ExtensionMethodSession.csproj.CoreCompileInputs.cache
+F:\.NetWorkplace\source\repos\ExtensionMethodSession\ExtensionMethodSession\obj\Debug\ExtensionMethodSession.exe
+F:\.NetWorkplace\source\repos\ExtensionMethodSession\ExtensionMethodSession\obj\Debug\ExtensionMethodSession.pdb
