@@ -1,0 +1,7 @@
+F:\.NetWorkplace\source\repos\CSarpTraining01\CSarpTraining01\bin\Debug\CSarpTraining01.exe.config
+F:\.NetWorkplace\source\repos\CSarpTraining01\CSarpTraining01\bin\Debug\CSarpTraining01.exe
+F:\.NetWorkplace\source\repos\CSarpTraining01\CSarpTraining01\bin\Debug\CSarpTraining01.pdb
+F:\.NetWorkplace\source\repos\CSarpTraining01\CSarpTraining01\obj\Debug\CSarpTraining01.csprojAssemblyReference.cache
+F:\.NetWorkplace\source\repos\CSarpTraining01\CSarpTraining01\obj\Debug\CSarpTraining01.csproj.CoreCompileInputs.cache
+F:\.NetWorkplace\source\repos\CSarpTraining01\CSarpTraining01\obj\Debug\CSarpTraining01.exe
+F:\.NetWorkplace\source\repos\CSarpTraining01\CSarpTraining01\obj\Debug\CSarpTraining01.pdb
