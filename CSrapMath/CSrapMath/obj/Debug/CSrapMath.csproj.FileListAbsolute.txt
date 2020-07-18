@@ -1,0 +1,7 @@
+F:\.NetWorkplace\source\repos\CSrapMath\CSrapMath\bin\Debug\CSrapMath.exe.config
+F:\.NetWorkplace\source\repos\CSrapMath\CSrapMath\bin\Debug\CSrapMath.exe
+F:\.NetWorkplace\source\repos\CSrapMath\CSrapMath\bin\Debug\CSrapMath.pdb
+F:\.NetWorkplace\source\repos\CSrapMath\CSrapMath\obj\Debug\CSrapMath.csprojAssemblyReference.cache
+F:\.NetWorkplace\source\repos\CSrapMath\CSrapMath\obj\Debug\CSrapMath.csproj.CoreCompileInputs.cache
+F:\.NetWorkplace\source\repos\CSrapMath\CSrapMath\obj\Debug\CSrapMath.exe
+F:\.NetWorkplace\source\repos\CSrapMath\CSrapMath\obj\Debug\CSrapMath.pdb

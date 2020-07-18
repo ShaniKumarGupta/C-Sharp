@@ -1,0 +1,7 @@
+F:\.NetTrainning\TrainingDay03\TrainingDay03\bin\Debug\TrainingDay03.exe.config
+F:\.NetTrainning\TrainingDay03\TrainingDay03\bin\Debug\TrainingDay03.exe
+F:\.NetTrainning\TrainingDay03\TrainingDay03\bin\Debug\TrainingDay03.pdb
+F:\.NetTrainning\TrainingDay03\TrainingDay03\obj\Debug\TrainingDay03.csprojAssemblyReference.cache
+F:\.NetTrainning\TrainingDay03\TrainingDay03\obj\Debug\TrainingDay03.csproj.CoreCompileInputs.cache
+F:\.NetTrainning\TrainingDay03\TrainingDay03\obj\Debug\TrainingDay03.exe
+F:\.NetTrainning\TrainingDay03\TrainingDay03\obj\Debug\TrainingDay03.pdb
