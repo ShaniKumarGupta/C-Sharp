@@ -1,0 +1,58 @@
+﻿@model MVCProject.Models.StudentDetails
+
+@{
+    ViewBag.Title = "stuDetails";
+}
+
+<h2>stuDetails</h2>
+
+<div>
+    <h4>StudentDetails</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.stuId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.stuId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.stuName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.stuName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.stuCollege)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.stuCollege)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.stuBranch)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.stuBranch)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.stuAge)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.stuAge)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
