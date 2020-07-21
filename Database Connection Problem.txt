@@ -1,0 +1,4 @@
+Problem: Server Name is not showing
+Solution: Open Run dialog box --> Search (services.msc) --> then from the below list search (SQLServer Browser) --> Enable and Run the service
+
+Video Solution : https://www.youtube.com/watch?v=x_-osmAI_bQ
